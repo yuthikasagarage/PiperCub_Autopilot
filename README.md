@@ -1,4 +1,4 @@
-All of the files in this project contains files i made to teach, flight dynamics and controls.<br/>
+All of the files in this project contains files i made for implementing and modelling PiperCub flight dynamics and controls.<br/>
 <br/>
 # Lateral_Directional_pilot
 lateral_autopilot_tuned for a state space model with MATLAB/Simulink<br/>
